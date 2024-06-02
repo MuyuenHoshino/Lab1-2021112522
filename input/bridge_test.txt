@@ -1,2 +1,2 @@
 aa bb dd aa cc dd
-B1
+B1C4
